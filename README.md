@@ -9,3 +9,5 @@ Launch by typing: mvnw spring-boot:run
     JPA
     REST
     React.js
+
+![Screenshot](juhahinkula.github.com/img/springreact.png)

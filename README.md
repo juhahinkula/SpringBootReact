@@ -1,7 +1,7 @@
 # SpringBootReact
 Spring Boot + React.js
 
-Spring Boot + React frontend
+Simple CRUD application with Soring Boot Data REST backend and React.js frontend.
 
 Launch by typing: mvnw spring-boot:run
 

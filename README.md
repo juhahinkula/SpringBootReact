@@ -10,6 +10,6 @@ Launch by typing: mvnw spring-boot:run
     REST
     React.js
 
-#Screenshot#
+##Screenshot##
 
 ![Screenshot](http://juhahinkula.github.com/img/springreact.png)
